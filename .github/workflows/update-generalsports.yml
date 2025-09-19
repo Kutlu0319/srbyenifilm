@@ -2,21 +2,24 @@ name: Update generalsports.m3u
 
 on:
   schedule:
-    - cron: "*/30 * * * *"  # Her 30 dakikada bir çalışır
-  workflow_dispatch:       # Manuel tetiklemeye de izin verir
+    - cron: "*/30 * * * *"   # Her 30 dakikada bir çalıştırır
+  workflow_dispatch:          # Elle tetikleme imkanı
+
+permissions:
+  contents: write
 
 jobs:
-  update-generalsports:
+  update:
     runs-on: ubuntu-latest
 
     env:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       GITHUB_REPO: a7shk1/m3u-broadcast
       GITHUB_BRANCH: main
       DEST_REPO_PATH: generalsports.m3u
       COMMIT_MESSAGE: "chore: auto-update sports channels from daddylive"
       SOURCE_URL: https://raw.githubusercontent.com/DisabledAbel/daddylivehd-m3u/f582ae100c91adf8c8db905a8f97beb42f369a0b/daddylive-events.m3u8
       DEST_RAW_URL: https://raw.githubusercontent.com/a7shk1/m3u-broadcast/main/generalsports.m3u
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
     steps:
       - name: Checkout repository
@@ -30,6 +33,5 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
-      - name: Run script to update M3U
+      - name: Run update script
         run: python pull_match_football_from_daddylive.py
-
