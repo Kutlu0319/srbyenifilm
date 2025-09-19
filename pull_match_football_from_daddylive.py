@@ -154,4 +154,4 @@ def upsert_github_file(repo: str, branch: str, path_in_repo: str, content_bytes:
         raise RuntimeError(f"GitHub PUT failed: {put_res.status_code} {put_res.text}")
     return put_res.json()
 
-def render_updated
+def render_updated(dest_text: str, picked: Dict[str, Tuple[str, Optional[str]]]) -> str:
