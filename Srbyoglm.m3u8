@@ -155,10 +155,6 @@ https://streamnet9.xyz/?url=https://streamcdn.xyz/hls/tivibu3.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
 https://five.4928d54d950ee70q45.lat/yayinas.m3u8
-#EXTINF:-1, abudhabi sport 1
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel1/DASH/master.mpd?expires=1758297893&md5=ieokylGveAvMTC4fTcIckA
-#EXTINF:-1, abudhabi sport 2
-https://vo-live-media.cdb.cdn.orange.com/Content/Channel/AbuDhabiSportsChannel2/DASH/master.mpd?expires=1758297971&md5=UXwLfzylZit7PUlYegRRyQ
 #EXTINF:-1 tvg-id="ATV.tr" tvg-name="ATV HD",ATV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
@@ -213,32 +209,6 @@ http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/64.m3u8
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/65.m3u8
 #EXTINF:-1,beIN SPORTS 9
 http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/66.m3u8
-#EXTINF:-1,DAZN 1
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8HAB0yVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1,DAZN 2
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNygtXl5RW08kNElTLF0gJCQvLygtXl5ROjgvX0hfIl8HABwyVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1,DAZN 3
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165520.m3u8
-#EXTINF:-1,DAZN 4
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/379047.m3u8
-#EXTINF:-1,DAZN 5
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165522.m3u8
-#EXTINF:-1,DAZN 6
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165068.m3u8
-#EXTINF:-1,ESPN
-http://181.119.86.68:8000/play/b031/index.m3u8
-#EXTINF:-1,ESPN 2
-http://181.119.86.68:8000/play/b032/index.m3u8
-#EXTINF:-1,ESPN 3
-http://181.119.86.68:8000/play/b033/index.m3u8
-#EXTINF:-1,ESPN 4
-http://181.119.85.222:8000/play/a00j/index.m3u8
-#EXTINF:-1,ESPN 5
-http://181.119.86.68:8000/play/b028/index.m3u8
-#EXTINF:-1,ESPN 6
-http://181.119.85.222:8000/play/a01s/index.m3u8
-#EXTINF:-1,ESPN 7
-http://181.119.86.68:8000/play/b029/index.m3u8
 #EXTINF:-1 tvg-id="ExxenSpor1.tr" tvg-name="Exxen Spor 1 HD",Exxen Spor 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
@@ -271,26 +241,10 @@ https://five.4928d54d950ee70q45.lat/yayinex7.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
 https://five.4928d54d950ee70q45.lat/yayinex8.m3u8
-#EXTINF:-1,Football HD Tajikistan
-https://stream2.removie.raha.af/live/smil:footballtv.smil/playlist.m3u8
-#EXTINF:-1,IRIB TV 3 Iran
-https://wo.cma.footballii.ir/hls2/tv3.m3u8
-#EXTINF:-1,MATCH! FOOTBALL 1 RUSSIA
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8EBhwyVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1,MATCH! FOOTBALL 2 RUSSIA
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8EBh8yVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1,MATCH! FOOTBALL 3 RUSSIA
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQUSsBW08kNElTLF0gJCQvLyhQUSsBOjgvX0hfIl8EBh4yVzZaJDxaBj8L/index.m3u8
-#EXTINF:-1,Match! TV Russia
-http://catchup.videoline.ru/match/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="NBATV.tr" tvg-name="NBA TV HD",NBA TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
 https://five.4928d54d950ee70q45.lat/yayinnbatv.m3u8
-#EXTINF:-1,Persiana Sports Iran
-https://spstr.abntv.live/hls/psstream.m3u8
-#EXTINF:-1,Real Madrid TV
-https://b63ea32a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/VENMVFZQbHVzX1JlYWxNYWRyaWRfSExT/playlist.m3u8
 #EXTINF:-1 tvg-id="SSport1.tr" tvg-name="S Sport 1 HD",S Sport 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
@@ -303,10 +257,6 @@ https://five.4928d54d950ee70q45.lat/yayinss2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
 https://five.4928d54d950ee70q45.lat/yayinssp2.m3u8
-#EXTINF:-1,Sky Sports Main Event HD
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyguUl0kW08kNElTLF0gJCQvLyguUl0kOjgvX0hfIl8GAydSKUklOV8GIh4=/index.m3u8
-#EXTINF:-1,SKY SPORTS PREMIER LEAGUE UK
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhQJF1YJBlTXz44W1csWD0sNDUjOlQkWEUsCSgkJ1daXj9SCRQ6Ol8kWzkxVxQjAw==/index.m3u8
 #EXTINF:-1 tvg-id="SmartSpor1.tr" tvg-name="Smart Spor 1 HD",Smart Spor 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
@@ -315,26 +265,6 @@ https://five.4928d54d950ee70q45.lat/yayinsmarts.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
 https://five.4928d54d950ee70q45.lat/yayinsms2.m3u8
-#EXTINF:-1,Sport TV 1
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165647.m3u8
-#EXTINF:-1,Sport TV 2
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/165648.m3u8
-#EXTINF:-1,SSC 1
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400551970.m3u8
-#EXTINF:-1,SSC 2
-http://het114a.4rouwanda-shop.store/live/33523510/index.m3u8
-#EXTINF:-1,SSC 3
-http://exm3u.extraott.com:80/live/ZUL96376/UG4VTW4E/400551968.m3u8
-#EXTINF:-1, starzplay1
-https://stream.supertv.gg:3010/supertv/sport/stv10/ch10/ch10_720.m3u8
-#EXTINF:-1, starzplay2
-https://test.vartv.live/hls/ch7.m3u8
-#EXTINF:-1,Thmanyah 1
-https://yallagoal.stream-e7e.workers.dev/Thmanyah1.m3u8
-#EXTINF:-1,Thmanyah 2
-https://test.vartv.live/hls/ch5.m3u8
-#EXTINF:-1,Thmanyah 3
-https://test.vartv.live/hls/ch6.m3u8
 #EXTINF:-1 tvg-id="TivibuSpor1.tr" tvg-name="Tivibu Spor 1 HD",Tivibu Spor 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
@@ -347,12 +277,6 @@ https://five.4928d54d950ee70q45.lat/yayint2.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
 https://five.4928d54d950ee70q45.lat/yayint3.m3u8
-#EXTINF:-1,TNT SPORTS
-http://181.78.201.70:8000/play/a0tx/index.m3u8
-#EXTINF:-1,TNT SPORTS 1
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbBgE6WjlTKStbBicD/index.m3u8
-#EXTINF:-1,TNT SPORTS 2
-https://world-proxifier.xyz/ddy/p/XSQhJT0FNyhaUyVbUjExVkAtWCUkOToqN0lSID8lJ09SUzBbBgA6WjlTKStbBicD/index.m3u8
 #EXTINF:-1 tvg-id="TRTSpor.tr" tvg-name="TRT Spor HD",TRT Spor HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
@@ -369,10 +293,6 @@ https://five.4928d54d950ee70q45.lat/yayintv8.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://trgoals1401.xyz/
 https://five.4928d54d950ee70q45.lat/yayintv85.m3u8
-#EXTINF:-1,Varzesh TV Iran
-https://lenz.splus.ir/PLTV/88888888/224/3221226845/1.m3u8
-#EXTINF:-1,Varzish TV Tajikistan
-https://stream2.removie.raha.af/live/smil:tjvarzishtv.smil/chunklist_w852771320_b1500000.m3u8
 
 #EXTGRP:SalamisTV
 #EXTINF:-1 tvg-id="spor" tvg-logo="https://i.hizliresim.com/b6xqz10.jpg" group-title="SalamisTV",A Spor
