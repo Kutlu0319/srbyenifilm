@@ -31,4 +31,5 @@ jobs:
         run: pip install requests
 
       - name: Run script to update M3U
-        run: python scripts/pull_match_football_from_daddylive.py
+        run: python pull_match_football_from_daddylive.py
+
