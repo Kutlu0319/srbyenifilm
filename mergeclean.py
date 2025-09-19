@@ -4,19 +4,13 @@ import re
 from datetime import datetime
 
 playlist_urls = [
-    "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/SeriaA.m3u",
     "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/bein.m3u",
     "https://raw.githubusercontent.com/Kutlu0319/raplysrb/refs/heads/main/trgoalas.m3u",
     "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/selcuk.m3u",
     "https://raw.githubusercontent.com/primatzeka/kurbaga/refs/heads/main/NeonSpor/NeonSpor.m3u",
     "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/justsporthd1.m3u",
-    "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/dazn.m3u",
     "https://raw.githubusercontent.com/mehmetey03/METV/refs/heads/main/salamistv1.m3u",
     "https://raw.githubusercontent.com/mehmetey03/xyzvtt/refs/heads/main/xyzvt.m3u",
-    "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/espn.m3u",
-    "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/generalsports.m3u",
-    "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/premierleague.m3u",
-    "https://raw.githubusercontent.com/a7shk1/m3u-broadcast/refs/heads/main/roshnleague.m3u",
 ]
 
 UDPTV_URL = "https://raw.githubusercontent.com/Drewski2423/DrewLive/refs/heads/main/UDPTV.m3u"
